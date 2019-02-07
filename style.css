@@ -1,0 +1,29 @@
+.container1, .container3{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(148, 86, 207);
+}
+
+p{
+    text-align: center;
+}
+
+.row > div{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(148, 86, 207);
+}
+
+div{
+    text-align: center;
+}
+
+.box1{
+    height: 100%;
+}
+
+.row1 > div{
+    background-color: rgb(214, 214, 214);
+}
+
+
